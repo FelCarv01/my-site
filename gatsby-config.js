@@ -8,8 +8,9 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     title: "Felipe Carvalho",
+    position: "Web Developer." ,
     description: `Page onde mostro algumas coisas sobre Dev.`,
-    author: `@Nordor01`,
+    author: `Felipe Carvalho`,
     siteUrl: `https://felcarv.net`,
     url: "https://felcarv.net",
   },
@@ -51,6 +52,6 @@ module.exports = {
 
     // Add any options here
 
-    // `gatsby-plugin-sass`,
+
   ],
 }
