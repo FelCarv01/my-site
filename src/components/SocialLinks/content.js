@@ -11,7 +11,7 @@ const links = [
   },
   {
     label: "Instagram",
-    url: `https://github.com/${handle}`,
+    url: `https://www.instagram.com/felipe.carv1/`,
   },
   {
     label: "Twitter",
